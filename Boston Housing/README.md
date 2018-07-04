@@ -7,3 +7,7 @@ The dataset for this project originates from the UCI Machine Learning Repository
 * 1 data point has an 'RM' value of 8.78. This data point can be considered an outlier and has been removed.
 * The features 'RM', 'LSTAT', 'PTRATIO', and 'MEDV' are essential. The remaining non-relevant features have been excluded.
 * The feature 'MEDV' has been multiplicatively scaled to account for 35 years of market inflation.
+
+Following are the files in this folder:  
+* ```boston_housing.ipynb``` The jupyter notebook of the project.
+* ```report.html``` The notebook in html format.
