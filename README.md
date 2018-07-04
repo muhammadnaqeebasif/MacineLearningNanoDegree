@@ -1,5 +1,5 @@
 # MacineLearningNanoDegree
-This folder contains the following projects:  
+This folder contains the projects which are the part of Machine Learning Nano degree on [Udacity](www.udacity.com) :  
 * ```Titanic Survival Exploration``` In 1912, the ship RMS Titanic struck an iceberg on its maiden voyage and sank, resulting in the deaths of most of its passengers and crew.  
 * ```Boston Housing``` In this project, we evaluate the performance and predictive power of a model that has been trained and tested on data collected from homes in suburbs of Boston, Massachusetts.    
 * ```Customer Segments```In this project, we analyze a dataset containing data on various customers' annual spending amounts (reported in *monetary units*) of diverse product categories for internal structure.  
